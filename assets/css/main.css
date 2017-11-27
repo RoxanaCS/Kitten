@@ -1,0 +1,19 @@
+body{
+  margin: 0 auto;
+}
+.catPicture{
+  width: 100%;
+  height: 40em;
+  background-image: url(../img/sunny-day.jpg);
+  background-size: cover;
+}
+.cat{
+  margin-top: 50%;
+  margin-left: 50%;
+}
+.cat_small{
+  display: none;
+}
+.cat_large{
+  display: none;
+}
