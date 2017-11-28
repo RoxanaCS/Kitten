@@ -6,14 +6,9 @@ body{
   height: 40em;
   background-image: url(../img/sunny-day.jpg);
   background-size: cover;
+  background-position: center;
 }
 .cat{
-  margin-top: 50%;
+  padding-top: 18em;
   margin-left: 50%;
-}
-.cat_small{
-  display: none;
-}
-.cat_large{
-  display: none;
 }
